@@ -6,7 +6,7 @@
     <div class="container">
         <div class="row">
             <div class="col d-flex flex-row">
-                <div class="phone"><a>+45 345 3324 56789</a></div>
+                <div class="phone"><a href="tel:0844108195" style="color:white;">+243 844 108 195</a></div>
                 <div class="social">
                     <ul class="social_list">
                         <li class="social_list_item"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
@@ -38,10 +38,10 @@
                 <div class="main_nav_container ml-auto">
                     <ul class="main_nav_list">
                         <li class="main_nav_item"><a href="index.php">Accueil</a></li>
-                        <li class="main_nav_item"><a href="about.php">A Propos</a></li>
-                        <li class="main_nav_item"><a href="offers.php">Nos Services</a></li>
-                        <li class="main_nav_item"><a href="blog.php">Actualites</a></li>
-                        <li class="main_nav_item"><a href="contact.php">Contact</a></li>
+                        <li class="main_nav_item"><a href="#about.php">A Propos</a></li>
+                        <li class="main_nav_item"><a href="#offers.php">Nos Services</a></li>
+                        <li class="main_nav_item"><a href="#blog.php">Actualites</a></li>
+                        <li class="main_nav_item"><a href="#contact.php">Contact</a></li>
                     </ul>
                 </div>
                 <div class="content_search ml-lg-0 ml-auto">
