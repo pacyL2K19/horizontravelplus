@@ -52,7 +52,7 @@
 							<div class="col-lg-6">
 								<div class="offers_image_container">
 									<!-- Image by Egzon Bytyqi -->
-									<div class="offers_image_background" style="background-image:url(images/offer_2.jpg)"></div>
+									<div class="offers_image_background" style="background-image:url(images/reservH.jpeg)"></div>
 									<div class="offer_name"><a href="#" style="font-size: 11px">Assurance des voyages</a></div>
 								</div>
 							</div>
@@ -89,7 +89,7 @@
 							<div class="col-lg-6">
 								<div class="offers_image_container">
 									<!-- Image by https://unsplash.com/@nevenkrcmarek -->
-									<div class="offers_image_background" style="background-image:url(images/offer_3.jpg)"></div>
+									<div class="offers_image_background" style="background-image:url(images/reservation.jpeg)"></div>
 									<div class="offer_name"><a href="#" style="font-size: 11px">Reservation d'Hotels</a></div>
 								</div>
 							</div>
@@ -126,7 +126,7 @@
 							<div class="col-lg-6">
 								<div class="offers_image_container">
 									<!-- Image by https://unsplash.com/@mantashesthaven -->
-									<div class="offers_image_background" style="background-image:url(images/offer_4.jpg)"></div>
+									<div class="offers_image_background" style="background-image:url(images/visa.jpeg)"></div>
 									<div class="offer_name"><a href="#" style="font-size: 11px">Assistance Visa</a></div>
 								</div>
 							</div>

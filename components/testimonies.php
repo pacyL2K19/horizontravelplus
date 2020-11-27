@@ -17,7 +17,7 @@
 							<!-- Testimonial Item -->
 							<div class="owl-item">
 								<div class="test_item">
-									<div class="test_image"><img src="images/test_1.jpg" alt="https://unsplash.com/@anniegray"></div>
+									<div class="test_image"><img src="images/text_1.jpg" alt="https://unsplash.com/@anniegray"></div>
 									<div class="test_icon"><img src="images/backpack.png" alt=""></div>
 									<div class="test_content_container">
 										<div class="test_content">
@@ -53,7 +53,7 @@
 							<!-- Testimonial Item -->
 							<div class="owl-item">
 								<div class="test_item">
-									<div class="test_image"><img src="images/test_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
+									<div class="test_image"><img src="images/text_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
 									<div class="test_icon"><img src="images/kayak.png" alt=""></div>
 									<div class="test_content_container">
 										<div class="test_content">
@@ -71,7 +71,7 @@
 							<!-- Testimonial Item -->
 							<div class="owl-item">
 								<div class="test_item">
-									<div class="test_image"><img src="images/test_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
+									<div class="test_image"><img src="images/text_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
 									<div class="test_icon"><img src="images/kayak.png" alt=""></div>
 									<div class="test_content_container">
 										<div class="test_content">
@@ -89,7 +89,7 @@
 							<!-- Testimonial Item -->
 							<div class="owl-item">
 								<div class="test_item">
-									<div class="test_image"><img src="images/test_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
+									<div class="test_image"><img src="images/text_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
 									<div class="test_icon"><img src="images/kayak.png" alt=""></div>
 									<div class="test_content_container">
 										<div class="test_content">
@@ -107,7 +107,7 @@
 							<!-- Testimonial Item -->
 							<div class="owl-item">
 								<div class="test_item">
-									<div class="test_image"><img src="images/test_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
+									<div class="test_image"><img src="images/text_3.jpg" alt="https://unsplash.com/@seefromthesky"></div>
 									<div class="test_icon"><img src="images/kayak.png" alt=""></div>
 									<div class="test_content_container">
 										<div class="test_content">
