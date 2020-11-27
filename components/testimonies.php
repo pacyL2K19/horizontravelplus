@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col text-center">
-					<h2 class="section_title">what our clients say about us</h2>
+					<h2 class="section_title">Nos clients temoignent d'eux-meme</h2>
 				</div>
 			</div>
 			<div class="row">
