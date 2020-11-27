@@ -23,7 +23,7 @@
 				<!-- Footer Column -->
 				<div class="col-lg-3 footer_column">
 					<div class="footer_col">
-						<div class="footer_title">posts</div>
+						<!-- <div class="footer_title">posts</div> -->
 						<div class="footer_content footer_blog">
 							
 							<!-- Footer blog item -->
@@ -31,7 +31,7 @@
 								<div class="footer_blog_image"><img src="images/footer_blog_1.jpg" alt="https://unsplash.com/@avidenov"></div>
 								<div class="footer_blog_content">
 									<div class="footer_blog_title"><a href="blog.html">Voyagez avec nous cette annee</a></div>
-									<div class="footer_blog_date">Nov 29, 2020</div>
+									<!-- <div class="footer_blog_date">Nov 29, 2020</div> -->
 								</div>
 							</div>
 							
@@ -40,7 +40,7 @@
 								<div class="footer_blog_image"><img src="images/footer_blog_2.jpg" alt="https://unsplash.com/@deannaritchie"></div>
 								<div class="footer_blog_content">
 									<div class="footer_blog_title"><a href="blog.html">Nouvelles destinations</a></div>
-									<div class="footer_blog_date">Nov 29, 2020</div>
+									<!-- <div class="footer_blog_date">Nov 29, 2020</div> -->
 								</div>
 							</div>
 
@@ -49,7 +49,7 @@
 								<div class="footer_blog_image"><img src="images/footer_blog_3.jpg" alt="https://unsplash.com/@bergeryap87"></div>
 								<div class="footer_blog_content">
 									<div class="footer_blog_title"><a href="blog.html">Decouvrez encore plus le monde</a></div>
-									<div class="footer_blog_date">Nov 29, 2017</div>
+									<!-- <div class="footer_blog_date">Nov 29, 2017</div> -->
 								</div>
 							</div>
 
@@ -63,7 +63,7 @@
 						<div class="footer_title">tags</div>
 						<div class="footer_content footer_tags">
 							<ul class="tags_list clearfix">
-								<li class="tag_item"><a href="#">design</a></li>
+								<!-- <li class="tag_item"><a href="#">design</a></li> -->
 								<li class="tag_item"><a href="#">fashion</a></li>
 								<li class="tag_item"><a href="#">music</a></li>
 								<li class="tag_item"><a href="#">video</a></li>
