@@ -42,11 +42,10 @@
                         <li class="dropdown main_nav_item">
                             <a href="#offers.php" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nos Services</a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Action</a>
-                                <a class="dropdown-item" href="#">Another action</a>
-                                <a class="dropdown-item" href="#">Something else here</a>
-                                <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#">Separated link</a>
+                                <a class="dropdown-item" href="#" style="color: orange">Location véhicules</a>
+                                <a class="dropdown-item" href="#" style="color: orange">Reservation hotel</a>
+                                <a class="dropdown-item" href="#" style="color: orange">Assistance Visa</a>
+                                <a class="dropdown-item" href="#" style="color: orange">Assurance Voyages</a>
                             </div>
                         </li>
                         <li class="main_nav_item"><a href="#contact.php">Contact</a></li>
