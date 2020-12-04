@@ -64,7 +64,7 @@
 						<div class="footer_content footer_tags">
 							<ul class="tags_list clearfix">
 								<!-- <li class="tag_item"><a href="#">design</a></li> -->
-								<li class="tag_item"><a href="#">fashion</a></li>
+								<!-- <li class="tag_item"><a href="#">fashion</a></li> -->
 								<li class="tag_item"><a href="#">music</a></li>
 								<li class="tag_item"><a href="#">video</a></li>
 								<li class="tag_item"><a href="#">fetes</a></li>
@@ -115,7 +115,7 @@
 				<div class="col-lg-3 order-lg-1 order-2  ">
 					<div class="copyright_content d-flex flex-row align-items-center">
 						<div><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed by <a href="https://bulaholdings.com" target="_blank">Bulaholdings Companies</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout droit réservé | Site développé par <a href="https://bulatelecoms.net" target="_blank">Bula Telecoms SA</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 					</div>
 				</div>
@@ -124,10 +124,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="footer_nav">
 							<ul class="footer_nav_list">
 								<li class="footer_nav_item"><a href="#">accueil</a></li>
-								<li class="footer_nav_item"><a href="about.html">a propos</a></li>
-								<li class="footer_nav_item"><a href="offers.html">services</a></li>
-								<li class="footer_nav_item"><a href="blog.html">nouvelles</a></li>
-								<li class="footer_nav_item"><a href="contact.html">contacts</a></li>
+								<li class="footer_nav_item"><a href="about.php">a propos</a></li>
+								<li class="footer_nav_item"><a href="offers.php">services</a></li>
+								<!-- <li class="footer_nav_item"><a href="blog.html">nouvelles</a></li> -->
+								<li class="footer_nav_item"><a href="contact.php">contacts</a></li>
 							</ul>
 						</div>
 					</div>
