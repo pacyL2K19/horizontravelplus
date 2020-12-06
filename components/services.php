@@ -60,14 +60,6 @@
 								<div class="offers_content">
 									<!-- <div class="offers_price">$70<span>per night</span></div> -->
 									<p class="offers_text">Vous revez de visiter le monde, les hotels luxieux, les belles plages du monde, notre agence vous facilite votre sejour ou que vous allez <br/> Veuillez remplir <a href="#">ce formulaire</a> pour reserver</p>
-									<!-- <div class="offers_icons">
-										<ul class="offers_icons_list">
-											<li class="offers_icons_item"><img src="images/post.png" alt=""></li>
-											<li class="offers_icons_item"><img src="images/compass.png" alt=""></li>
-											<li class="offers_icons_item"><img src="images/bicycle.png" alt=""></li>
-											<li class="offers_icons_item"><img src="images/sailboat.png" alt=""></li>
-										</ul>
-									</div> -->
                                     <div class="rating_r rating_r_4 offers_rating">
 										<i></i>
 										<i></i>
