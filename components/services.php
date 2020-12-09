@@ -110,15 +110,15 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="offers_image_container">
-									<!-- Image by https://unsplash.com/@kensuarez -->
-									<div class="offers_image_background" style="background-image:url(images/offer_1.jpg)"></div>
-									<div class="offer_name"><a href="#" style="font-size: 11px">Location vehicules</a></div>
+									<!-- Image by https://unsplash.com/@nevenkrcmarek -->
+									<div class="offers_image_background" style="background-image:url(images/reservation.jpeg)"></div>
+									<div class="offer_name"><a href="#" style="font-size: 11px">Réservation d'Hotels</a></div>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="offers_content">
 									<!-- <div class="offers_price">$70<span>per night</span></div> -->
-									<p class="offers_text">Avez-vous besoin de vehicules a louer, pour une circonstance ou l'autre ? Dans n'importe quelle ville ? Contactez-nous en remplissant <a href="#">ce formulaire</a></p>
+									<p class="offers_text">Nous vous conseillons, nous reservons, nous construisons un packet de prix pour les hotels a bon prix mieix sécurisés pour vos séjours dans le monde entier</p>
 									<!-- <div class="offers_icons">
 										<ul class="offers_icons_list">
 											<li class="offers_icons_item"><img src="images/post.png" alt=""></li>
@@ -133,29 +133,27 @@
 										<i></i>
 										<i></i>
 										<i></i>
-									</div>
-									<div class="offers_link"><a href="offers.html">En savoir plus</a></div>
+									</div><br /><br /><br /><br /><br /><br />
+									<!-- <div class="offers_link"><a href="offers.html">En savoir plus</a></div> -->
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-
-				<!-- Offers Item -->
 				<div class="col-lg-6 offers_col">
 					<div class="offers_item">
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="offers_image_container">
-									<!-- Image by https://unsplash.com/@nevenkrcmarek -->
-									<div class="offers_image_background" style="background-image:url(images/reservation.jpeg)"></div>
-									<div class="offer_name"><a href="#" style="font-size: 11px">Reservation d'Hotels</a></div>
+									<!-- Image by https://unsplash.com/@kensuarez -->
+									<div class="offers_image_background" style="background-image:url(images/offer_1.jpg)"></div>
+									<div class="offer_name"><a href="#" style="font-size: 11px">Location véhicules</a></div>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="offers_content">
 									<!-- <div class="offers_price">$70<span>per night</span></div> -->
-									<p class="offers_text">Vous avez deja cible un hotel que vous aimeriez a tout prix visiter ? Vous etes perdu et ne savez pas comment proceder ? Reserver votre place dans n'importe quel hotel du monnde en remplissant <a href="#">ce formulaire</a></p>
+									<p class="offers_text">Nous vous proposons une large gamme de vehicules pour deplacements, vos rencontres d'affaires, vos activités quotidiennes et vos deplacement a l'aéroport</p>
 									<!-- <div class="offers_icons">
 										<ul class="offers_icons_list">
 											<li class="offers_icons_item"><img src="images/post.png" alt=""></li>
@@ -170,16 +168,14 @@
 										<i></i>
 										<i></i>
 										<i></i>
-									</div>
-									<div class="offers_link"><a href="offers.html">En savoir plus</a></div>
+									</div><br /><br /><br /><br /><br /><br />
+									<!-- <div class="offers_link"><a href="offers.html">En savoir plus</a></div> -->
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-
 				<!-- Offers Item -->
-
 			</div>
 		</div>
 	</div>
