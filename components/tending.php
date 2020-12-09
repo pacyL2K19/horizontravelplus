@@ -30,6 +30,46 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-lg-3 col-sm-6">
+					<div class="trending_item clearfix">
+						<div class="trending_image"><img src="images/charm-el-cheikh.jpg" alt="img"></div>
+						<div class="trending_content">
+							<div class="trending_title"><a href="#">Charm El-Cheikh</a></div>
+							<!-- <div class="trending_price">From $182</div> -->
+							<div class="trending_location">Egypte</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6">
+					<div class="trending_item clearfix">
+						<div class="trending_image"><img src="images/rotana.jpg" alt="img"></div>
+						<div class="trending_content">
+							<div class="trending_title"><a href="#">Serena Hotel</a></div>
+							<!-- <div class="trending_price">From $182</div> -->
+							<div class="trending_location">RDC, Goma</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6">
+					<div class="trending_item clearfix">
+						<div class="trending_image"><img src="images/rotana.jpg" alt="img"></div>
+						<div class="trending_content">
+							<div class="trending_title"><a href="#">Buzios Hotel</a></div>
+							<!-- <div class="trending_price">From $182</div> -->
+							<div class="trending_location">Bresil, Sao Paulo</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6">
+					<div class="trending_item clearfix">
+						<div class="trending_image"><img src="images/rotana.jpg" alt="img"></div>
+						<div class="trending_content">
+							<div class="trending_title"><a href="#">Paramount Hotel</a></div>
+							<!-- <div class="trending_price">From $182</div> -->
+							<div class="trending_location">UAE, Dubai</div>
+						</div>
+					</div>
+				</div>
 
 				<!-- Trending Item -->
 				<div class="col-lg-3 col-sm-6">
