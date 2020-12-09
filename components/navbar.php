@@ -33,7 +33,7 @@
         <div class="row">
             <div class="col main_nav_col d-flex flex-row align-items-center justify-content-start">
                 <div class="logo_container">
-                    <div class="logo"><a href="index.php" style="font-size: 15px;"><img src="images/logo1.jpg" alt="" style="height: 50px; width: 50px; border-radius: 25px;">Horizon travel +</a></div>
+                    <div class="logo"><a href="index.php" style="font-size: 15px;"><img src="images/logo1.jpeg" alt="" style="height: 50px; width: 50px; border-radius: 25px;">Horizon travel +</a></div>
                 </div>
                 <div class="main_nav_container ml-auto">
                     <ul class="main_nav_list">

@@ -7,7 +7,7 @@
 					<div class="footer_col">
 						<div class="footer_content footer_about">
 							<div class="logo_container footer_logo">
-								<div class="logo"><a href="#"><img src="images/logo1.jpg" alt="" style="height: 80px; width: 80px; border-radius: 40px;"></a></div>
+								<div class="logo"><a href="#"><img src="images/logo1.jpeg" alt="" style="height: 80px; width: 80px; border-radius: 40px;"></a></div>
 							</div>
 							<p class="footer_about_text">Votre Agence de Voyage et Facilitation qui met à votre service la Vente des Billets d’avion, l’Assistance Visa, l’Assurance voyage & Location des véhicules.</p>
 							<ul class="footer_social_list">
