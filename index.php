@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Horizon Travel Plus - Accueil</title>
+<title>Horizon Travel Plus</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Travelix Project">
@@ -31,10 +31,10 @@
 			<div class="menu_close_container"><div class="menu_close"></div></div>
 			<div class="logo menu_logo"><a href="#"><img src="images/logo.png" alt=""></a></div>
 			<ul>
-				<li class="menu_item"><a href="#">home</a></li>
-				<li class="menu_item"><a href="about.html">about us</a></li>
-				<li class="menu_item"><a href="offers.html">offers</a></li>
-				<li class="menu_item"><a href="blog.html">news</a></li>
+				<li class="menu_item"><a href="#">Accueil</a></li>
+				<li class="menu_item"><a href="about.html">A propos</a></li>
+				<li class="menu_item"><a href="offers.html">Nos Services</a></li>
+				<!-- <li class="menu_item"><a href="blog.html">news</a></li> -->
 				<li class="menu_item"><a href="contact.html">contact</a></li>
 			</ul>
 		</div>
@@ -59,7 +59,8 @@
 						<div class="home_slider_content_inner" data-animation-in="flipInX" data-animation-out="animate-out fadeOut">
 							<h1 style="font-size:90px;">Laissez-nous</h1>
 							<h1 style="font-size:80px;">Vous guider</h1>
-							<div class="button home_slider_button"><div class="button_bcg"></div><a href="#">Explorer<span></span><span></span><span></span></a></div>
+							<!-- <div class="button home_slider_button"><div class="button_bcg"></div><a href="#">Explorer<span></span><span></span><span></span></a></div> -->
+							<div><em><p style="justify-content: center; color: white; margin-top: 50px; font-size: 25px">Votre satisfaction, notre priorité</p></em></div>
 						</div>
 					</div>
 				</div>
@@ -72,7 +73,8 @@
 						<div class="home_slider_content_inner" data-animation-in="flipInX" data-animation-out="animate-out fadeOut">
 							<h1 style="font-size:90px;">Votre Agence</h1>
 							<h1 style="font-size:80px;">de voyage</h1>
-							<div class="button home_slider_button"><div class="button_bcg"></div><a href="#">Explorer<span></span><span></span><span></span></a></div>
+							<!-- <div class="button home_slider_button"><div class="button_bcg"></div><a href="#">Explorer<span></span><span></span><span></span></a></div> -->
+							<div><em><p style="justify-content: center; color: white; margin-top: 50px; font-size: 25px">Votre satisfaction, notre priorité</p></em></div>
 						</div>
 					</div>
 				</div>
@@ -85,7 +87,8 @@
 						<div class="home_slider_content_inner" data-animation-in="flipInX" data-animation-out="animate-out fadeOut">
 							<h1 style="font-size:90px;">Des sejours</h1>
 							<h1 style="font-size:80px;">inoubliables</h1>
-							<div class="button home_slider_button"><div class="button_bcg"></div><a href="#">Explorer<span></span><span></span><span></span></a></div>
+							<!-- <div class="button home_slider_button"><div class="button_bcg"></div><a href="#">Explorer<span></span><span></span><span></span></a></div> -->
+							<div><em><p style="justify-content: center; color: white; margin-top: 50px; font-size: 25px">Votre satisfaction, notre priorité</p></em></div>
 						</div>
 					</div>
 				</div>

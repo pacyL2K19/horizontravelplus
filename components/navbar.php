@@ -9,12 +9,12 @@
                 <div class="phone"><a href="tel:0844108195" style="color:white;">+243 844 108 195</a></div>
                 <div class="social">
                     <ul class="social_list">
-                        <li class="social_list_item"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                        <li class="social_list_item"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li class="social_list_item"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li class="social_list_item"><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-                        <li class="social_list_item"><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-                        <li class="social_list_item"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li class="social_list_item"><a href="https://www.instagram.com/horizon.travelplus/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li class="social_list_item"><a href="https://web.facebook.com/horizontravelplus/posts?_rdc=1&_rdr"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li class="social_list_item"><a href="https://twitter.com/Horizontravel4"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li class="social_list_item"><a href="https://www.linkedin.com/company/horizon-travel-plus/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <!-- <li class="social_list_item"><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                        <li class="social_list_item"><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li> -->
                     </ul>
                 </div>
                 <!-- <div class="user_box ml-auto">
@@ -39,7 +39,8 @@
                     <ul class="main_nav_list">
                         <li class="main_nav_item"><a href="index.php">Accueil</a></li>
                         <li class="main_nav_item"><a href="#about.php">A Propos</a></li>
-                        <li class="dropdown main_nav_item">
+                        <li class="main_nav_item"><a href="#services">Nos services</a></li>
+                        <!-- <li class="dropdown main_nav_item">
                             <a href="#offers.php" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nos Services</a>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" href="#" style="color: orange">Location véhicules</a>
@@ -47,7 +48,7 @@
                                 <a class="dropdown-item" href="#" style="color: orange">Assistance Visa</a>
                                 <a class="dropdown-item" href="#" style="color: orange">Assurance Voyages</a>
                             </div>
-                        </li>
+                        </li> -->
                         <li class="main_nav_item"><a href="#contact.php">Contact</a></li>
                     </ul>
                 </div>
