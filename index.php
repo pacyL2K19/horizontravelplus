@@ -275,7 +275,7 @@
 								</div>
 							</div>
 						</form>
-						<button class="button search_button">Reserver<span></span><span></span><span></span></button>
+						<button class="button search_button">Réserver<span></span><span></span><span></span></button>
 					</div>
 
 					<!-- Search Panel -->
@@ -287,7 +287,7 @@
 								<input type="text" class="destination search_input" required="required">
 							</div>
 							<div class="search_item">
-								<div>Depart</div>
+								<div>Départ</div>
 								<input type="text" class="check_in search_input" placeholder="YYYY-MM-DD">
 							</div>
 							<div class="search_item">
@@ -323,7 +323,7 @@
 									<option>plus</option>
 								</select>
 							</div>
-							<button class="button search_button">Reserver<span></span><span></span><span></span></button>
+							<button class="button search_button">Réserver<span></span><span></span><span></span></button>
 						</form>
 					</div>
 
@@ -336,7 +336,7 @@
 								<input type="text" class="destination search_input" required="required">
 							</div>
 							<div class="search_item">
-								<div>Depart</div>
+								<div>Départ</div>
 								<input type="text" class="check_in search_input" placeholder="YYYY-MM-DD">
 							</div>
 							<div class="search_item">
@@ -365,7 +365,7 @@
 									<option>plus</option>
 								</select>
 							</div> -->
-							<button class="button search_button">Reserver<span></span><span></span><span></span></button>
+							<button class="button search_button">Réserver<span></span><span></span><span></span></button>
 						</form>
 					</div>
 
@@ -378,7 +378,7 @@
 								<input type="text" class="destination search_input" required="required">
 							</div>
 							<div class="search_item">
-								<div>Depart</div>
+								<div>Départ</div>
 								<input type="text" class="check_in search_input" placeholder="YYYY-MM-DD">
 							</div>
 							<div class="search_item">
@@ -407,7 +407,7 @@
 									<option>plus</option>
 								</select>
 							</div> -->
-							<button class="button search_button">Reserver<span></span><span></span><span></span></button>
+							<button class="button search_button">Réserver<span></span><span></span><span></span></button>
 						</form>
 					</div>
 
@@ -449,7 +449,7 @@
 									<option>autre</option>
 								</select>
 							</div>
-							<button class="button search_button">Reserver<span></span><span></span><span></span></button>
+							<button class="button search_button">Réserver<span></span><span></span><span></span></button>
 						</form>
 					</div>
 
@@ -462,14 +462,14 @@
 								<input type="text" class="destination search_input" required="required">
 							</div>
 							<div class="search_item">
-								<div>Depart</div>
+								<div>Départ</div>
 								<input type="text" class="check_in search_input" placeholder="YYYY-MM-DD">
 							</div>
 							<div class="search_item">
 								<div>Retour</div>
 								<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD">
 							</div>
-							<button class="button search_button">Demander<span></span><span></span><span></span></button>
+							<button class="button search_button">Réserver<span></span><span></span><span></span></button>
 						</form>
 					</div>
 				</div>
@@ -489,7 +489,8 @@
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1">
 					<div class="intro_text text-center">
-						<p>Horizon Travel Plus, votre agence de voyage, nous vous facilitons entre autre la location des véhicules, l'assurance voyage, la reservation d'Hotel ou meme dans l'assistance pour l'obtention des Visa pour tout pays </p>
+						<p class="text-dark">La société Horizon Travel Plus, votre agence de voyage et de tourisme. Nous mettons notre expérience pour <b>L'assistace Visa</b>, <b>L'assurance Voyage</b>, pour <b>vos achats de billets</b> et <b>Location de vehicule</b> </p><br />
+						<p class="text-dark">Pour vous assister dans vos demarches de visas, vente de billets nationaux et internationaux, reservation d'hotel ainsi que la location de vehicule</p>
 					</div>
 				</div>
 			</div>
