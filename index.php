@@ -222,7 +222,7 @@
 									<div style="margin-bottom: 1px">Date Expiration</div>
 									<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD" style="height: 25px">
 								</div><div class="search_item">
-									<div style="margin-bottom: 1px">Adresse courante</div>
+									<div style="margin-bottom: 1px">Adresse</div>
 									<input style="height: 25px" type="text" class="destination search_input" required="required">
 								</div>
 								
@@ -291,8 +291,15 @@
 								<input type="text" class="check_in search_input" placeholder="YYYY-MM-DD">
 							</div>
 							<div class="search_item">
-								<div>Retour</div>
-								<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD">
+								<div>Companie</div>
+								<select name="adults" id="adults_1" class="dropdown_item_select search_input">
+									<option>Congo Airways</option>
+									<option>CAA</option>
+									<option>Ethiopian </option>
+									<option>Bruxell Airways</option>
+									<option>Rwanda Airways</option>
+									<option>Autre</option>
+								</select>
 							</div>
 							<div class="search_item">
 								<div>adultes</div>
@@ -336,7 +343,7 @@
 								<div>Retour</div>
 								<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD">
 							</div>
-							<div class="search_item">
+							<!-- <div class="search_item">
 								<div>adultes</div>
 								<select name="adults" id="adults_1" class="dropdown_item_select search_input">
 									<option>1</option>
@@ -357,7 +364,7 @@
 									<option>5</option>
 									<option>plus</option>
 								</select>
-							</div>
+							</div> -->
 							<button class="button search_button">Reserver<span></span><span></span><span></span></button>
 						</form>
 					</div>
@@ -378,7 +385,7 @@
 								<div>Retour</div>
 								<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD">
 							</div>
-							<div class="search_item">
+							<!-- <div class="search_item">
 								<div>adultes</div>
 								<select name="adults" id="adults_1" class="dropdown_item_select search_input">
 									<option>1</option>
@@ -399,7 +406,7 @@
 									<option>5</option>
 									<option>plus</option>
 								</select>
-							</div>
+							</div> -->
 							<button class="button search_button">Reserver<span></span><span></span><span></span></button>
 						</form>
 					</div>
@@ -409,37 +416,37 @@
 					<div class="search_panel">
 						<form action="#" id="search_form_5" class="search_panel_content d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-lg-between justify-content-start">
 							<div class="search_item">
-								<div>Destination</div>
+								<div>Ville / Pays</div>
 								<input type="text" class="destination search_input" required="required">
 							</div>
 							<div class="search_item">
-								<div>Depart</div>
+								<div>A partir du</div>
 								<input type="text" class="check_in search_input" placeholder="YYYY-MM-DD">
 							</div>
 							<div class="search_item">
-								<div>Retour</div>
+								<div>Au</div>
 								<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD">
 							</div>
 							<div class="search_item">
-								<div>adultes</div>
+								<div>Model</div>
 								<select name="adults" id="adults_1" class="dropdown_item_select search_input">
-									<option>1</option>
-									<option>2</option>
-									<option>3</option>
-									<option>4</option>
-									<option>5</option>
-									<option>plus</option>
+									<option>4X4</option>
+									<option>Voitures</option>
+									<option>Jeep</option>
+									<option>Tout Terrain</option>
+									<option>Taxi</option>
+									<option>autre</option>
 								</select>
 							</div>
 							<div class="search_item">
-								<div>Enfants</div>
+								<div>Marque</div>
 								<select name="children" id="children_1" class="dropdown_item_select search_input">
-									<option>1</option>
-									<option>2</option>
-									<option>3</option>
-									<option>4</option>
-									<option>5</option>
-									<option>plus</option>
+									<option>Hilux</option>
+									<option>Rav4</option>
+									<option>Audi</option>
+									<option>VW</option>
+									<option>Ford</option>
+									<option>autre</option>
 								</select>
 							</div>
 							<button class="button search_button">Reserver<span></span><span></span><span></span></button>
