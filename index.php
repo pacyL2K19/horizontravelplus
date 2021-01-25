@@ -32,10 +32,10 @@
 			<div class="logo menu_logo"><a href="#"><img src="images/logo.png" alt=""></a></div>
 			<ul>
 				<li class="menu_item"><a href="#">Accueil</a></li>
-				<li class="menu_item"><a href="about.html">A propos</a></li>
-				<li class="menu_item"><a href="offers.html">Nos Services</a></li>
+				<li class="menu_item"><a href="#about">A propos</a></li>
+				<li class="menu_item"><a href="#services">Nos Services</a></li>
 				<!-- <li class="menu_item"><a href="blog.html">news</a></li> -->
-				<li class="menu_item"><a href="contact.html">contact</a></li>
+				<li class="menu_item"><a href="#contact">contact</a></li>
 			</ul>
 		</div>
 	</div>
@@ -479,7 +479,7 @@
 
 	<!-- Intro -->
 	
-	<div class="intro">
+	<div class="intro" id ="about">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -652,7 +652,7 @@
 		include('./components/tending.php');
 	?>
 
-	<div class="contact">
+	<div class="contact" id="contact">
 		<div class="contact_background" style="background-image:url(images/contact.png)"></div>
 
 		<div class="container">

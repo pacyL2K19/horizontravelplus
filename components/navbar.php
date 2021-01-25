@@ -37,8 +37,8 @@
                 </div>
                 <div class="main_nav_container ml-auto">
                     <ul class="main_nav_list">
-                        <li class="main_nav_item"><a href="index.php">Accueil</a></li>
-                        <li class="main_nav_item"><a href="#about.php">A Propos</a></li>
+                        <li class="main_nav_item"><a href="#">Accueil</a></li>
+                        <li class="main_nav_item"><a href="#about">A Propos</a></li>
                         <li class="main_nav_item"><a href="#services">Nos services</a></li>
                         <!-- <li class="dropdown main_nav_item">
                             <a href="#offers.php" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nos Services</a>
@@ -49,7 +49,7 @@
                                 <a class="dropdown-item" href="#" style="color: orange">Assurance Voyages</a>
                             </div>
                         </li> -->
-                        <li class="main_nav_item"><a href="#contact.php">Contact</a></li>
+                        <li class="main_nav_item"><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
                 <div class="content_search ml-lg-0 ml-auto">
