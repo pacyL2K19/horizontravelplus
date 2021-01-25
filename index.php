@@ -13,6 +13,15 @@
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<!-- Site CSS -->
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<!-- Responsive CSS -->
+<link rel="stylesheet" href="css/responsive.css">
+    <!-- Custom CSS -->
+<link rel="stylesheet" href="css/custom.css">
+<script src="js/modernizr.js"></script> <!-- Modernizr -->
 </head>
 
 <body>
@@ -650,6 +659,7 @@
 		include('./components/services.php');
 		include('./components/testimonies.php');
 		include('./components/tending.php');
+		include('./components/gallery.php');
 	?>
 
 	<div class="contact" id="contact">
