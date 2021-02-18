@@ -185,7 +185,7 @@
 							<div class="search_panel_content d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-lg-between justify-content-start">
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Civilité</div>
-									<select name="adults" id="adults_1" class="dropdown_item_select search_input" style="height: 25px">
+									<select name="civility" id="adults_1" class="dropdown_item_select search_input" style="height: 25px">
 										<option>Mme</option>
 										<option>Msr</option>
 										<option>Mlle</option>
@@ -196,25 +196,25 @@
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Noms Complets</div>
-									<input type="text" class="destination search_input" required="required" style="height: 25px">
+									<input name="names" type="text" class="destination search_input" required="required" style="height: 25px">
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Nationalité</div>
-									<input type="text" class="destination search_input" required="required" style="height: 25px">
+									<input name="nationality" type="text" class="destination search_input" required="required" style="height: 25px">
 								</div><div class="search_item">
 									<div style="margin-bottom: 1px">Lieu Naissance</div>
-									<input type="text" class="destination search_input" required="required" style="height: 25px">
+									<input name="place_birth" type="text" class="destination search_input" required="required" style="height: 25px">
 								</div>
 								
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Date Naissance</div>
-									<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD" style="height: 25px">
+									<input name="date_birth" type="text" class="check_out search_input" placeholder="YYYY-MM-DD" style="height: 25px">
 								</div>
 							</div>
 							<div class="search_panel_content d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-lg-between justify-content-start">
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Etat civil</div>
-									<select style="height: 25px" name="adults" id="adults_1" class="dropdown_item_select search_input">
+									<select style="height: 25px" name="marital_state" id="adults_1" class="dropdown_item_select search_input">
 										<option>Marié(e)</option>
 										<option>Célibataire</option>
 										<option>Divorcé(e)</option>
@@ -225,25 +225,25 @@
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">No Passport</div>
-									<input style="height: 25px" type="text" class="destination search_input" required="required">
+									<input name="num_passport" style="height: 25px" type="text" class="destination search_input" required="required">
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Date Expiration</div>
-									<input type="text" class="check_out search_input" placeholder="YYYY-MM-DD" style="height: 25px">
+									<input name="expires_when" type="text" class="check_out search_input" placeholder="YYYY-MM-DD" style="height: 25px">
 								</div><div class="search_item">
 									<div style="margin-bottom: 1px">Adresse</div>
-									<input style="height: 25px" type="text" class="destination search_input" required="required">
+									<input name="address" style="height: 25px" type="text" class="destination search_input" required="required">
 								</div>
 								
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Destination</div>
-									<input style="height: 25px" type="text" class="destination search_input" required="required">
+									<input name="destination" style="height: 25px" type="text" class="destination search_input" required="required">
 								</div>
 							</div>
 							<div class="search_panel_content d-flex flex-lg-row flex-column align-items-lg-center align-items-start justify-content-lg-between justify-content-start">
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Motif</div>
-									<select style="height: 25px" name="adults" id="adults_1" class="dropdown_item_select search_input">
+									<select name="motif" style="height: 25px" name="adults" id="adults_1" class="dropdown_item_select search_input">
 										<option>Choisissez votre motif</option>
 										<option>Tourisme</option>
 										<option>Etudes</option>
@@ -254,7 +254,7 @@
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Type de visa</div>
-									<select style="height: 25px" name="adults" id="adults_1" class="dropdown_item_select search_input">
+									<select name="type" style="height: 25px" name="type_visa" id="adults_1" class="dropdown_item_select search_input">
 										<option>Choisissez</option>
 										<option>Tourisme</option>
 										<option>Etudes</option>
@@ -265,18 +265,18 @@
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Telephone</div>
-									<input style="height: 25px" type="text" class="destination search_input" required="required">
+									<input name="num_phone" style="height: 25px" type="text" class="destination search_input" required="required">
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">email</div>
-									<input style="height: 25px" type="email" class="destination search_input" required="required">
+									<input name="email" style="height: 25px" type="email" class="destination search_input" required="required">
 								</div><div class="search_item">
 									<div style="margin-bottom: 1px">Profession</div>
-									<input style="height: 25px" type="text" class="destination search_input" required="required">
+									<input name="profession" style="height: 25px" type="text" class="destination search_input" required="required">
 								</div>
 								<div class="search_item">
 									<div style="margin-bottom: 1px">Sexe</div>
-									<select style="height: 25px" name="adults" id="adults_1" class="dropdown_item_select search_input">
+									<select style="height: 25px" name="sex" id="adults_1" class="dropdown_item_select search_input">
 										<!-- <option>Choisissez le type de visa</option> -->
 										<option>M</option>
 										<option>F</option>
